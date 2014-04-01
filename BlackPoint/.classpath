@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kmccleel/libGDX/Tween/tween-engine-api.jar" sourcepath="C:/Users/kmccleel/libGDX/Tween/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kmccleel/libGDX/Tween/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kmccleel/libGDX/bodyeditor-loader/bodyeditor-loader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kmccleel/libGDX/bodyeditor-loader/bodyeditor-loader-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
