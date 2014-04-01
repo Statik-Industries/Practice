@@ -24,10 +24,6 @@ public class MainMenu implements Screen {
 	private Label heading;
 	private BitmapFont white, black;
 	
-	/*
-	 * THIS COMMENT IS A TEST FOR GIT HUB
-	 * 
-	 */
 
 	@Override
 	public void render(float delta) {
